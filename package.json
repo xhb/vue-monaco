@@ -1,9 +1,9 @@
 {
-  "name": "vue-monaco",
+  "name": "@xhbmygod/vue-monaco",
   "version": "0.3.1",
-  "description": "MonacoEditor component for Vue.js",
+  "description": "MonacoEditor component for Vue.js, fixed vite build ESM bug.",
   "repository": {
-    "url": "egoist/vue-monaco",
+    "url": "xhb/vue-monaco",
     "type": "git"
   },
   "main": "dist/vue-monaco.js",
@@ -19,7 +19,7 @@
     "example": "poi --serve",
     "build:example": "poi --prod"
   },
-  "author": "egoist <0x142857@gmail.com>",
+  "author": "xhbmygod@gmail.com",
   "license": "MIT",
   "dependencies": {
     "monaco-editor": "^0.20.0",
